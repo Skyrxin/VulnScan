@@ -1,0 +1,11 @@
+#virtual invironment
+.venv/
+.github/
+web_scan.json
+modules/__pycache_
+modules/__init__.py
+__pycache__/
+__pycache__
+results/*.json
+wordlists/urls.txt
+
