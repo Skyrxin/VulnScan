@@ -19,7 +19,15 @@ A comprehensive web application vulnerability scanner with endpoint discovery an
 
 ## Installation
 
-1. Install Python dependencies:
+1.  Clone the repository:
+
+```bash 
+
+git clone https://github.com/Skyrxin/VulnScan.git
+
+```
+
+2. Install Python dependencies:
 
 ```bash
 
@@ -27,13 +35,6 @@ pip install -r requirements.txt
 
 ```
 
-2.  Clone the repository:
-
-```bash 
-
-git clone https://github.com/Skyrxin/VulnScan.git
-
-```
 
 ## Usage
 
