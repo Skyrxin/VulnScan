@@ -29,7 +29,12 @@ pip install -r requirements.txt
 
 2.  Clone the repository:
 
-`git clone https://github.com/Skyrxin/VulnScan.git`
+```bash 
+
+git clone https://github.com/Skyrxin/VulnScan.git
+
+```
+
 ## Usage
 
 ### Basic Endpoint Discovery
