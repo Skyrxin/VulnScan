@@ -72,11 +72,16 @@ python scanner.py --load-endpoints endpoints.json --scan-vulnerabilities
 
 ### Discord Notifier Option
 
+Create a Discord webhook in your server (Server Settings → Integrations → Webhooks).
+Run the scanner and pass the webhook URL:
+
 ```bash
 
 python scanner.py --target https://example.com --scan-all --discord-webhook https://discord.com/api/webhooks/WEBHOOK_ID/WEBHOOK_TOKEN
 
 ```
+If the webhook is configured correctly you'll see a console message:
+
 <img width="553" height="239" alt="image" src="https://github.com/user-attachments/assets/c6a75af8-5bd6-4855-8081-f976c7d9953d" />
 
 ## Project Structure
