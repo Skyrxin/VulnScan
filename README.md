@@ -82,7 +82,7 @@ python scanner.py --target https://example.com --scan-all --discord-webhook http
 ```
 If the webhook is configured correctly you'll see a console message:
 
-<img width="553" height="239" alt="image" src="https://github.com/user-attachments/assets/c6a75af8-5bd6-4855-8081-f976c7d9953d" />
+<div align="center"><img width="553" height="239" alt="image" src="https://github.com/user-attachments/assets/c6a75af8-5bd6-4855-8081-f976c7d9953d" /></div>
 
 ## Project Structure
 
