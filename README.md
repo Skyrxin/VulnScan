@@ -70,6 +70,15 @@ python scanner.py --load-endpoints endpoints.json --scan-vulnerabilities
 
 ```
 
+### Discord Notifier Option
+
+```bash
+
+python scanner.py --target https://example.com --scan-all --discord-webhook https://discord.com/api/webhooks/WEBHOOK_ID/WEBHOOK_TOKEN
+
+```
+<img width="553" height="239" alt="image" src="https://github.com/user-attachments/assets/c6a75af8-5bd6-4855-8081-f976c7d9953d" />
+
 ## Project Structure
 
 - `scanner.py` - Main scanner application
