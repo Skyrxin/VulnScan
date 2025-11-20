@@ -1,5 +1,5 @@
 # Web Application Vulnerability Scanner
-<div align="center"><img width="553" height="239" alt="image" src="https://github.com/user-attachments/assets/c6a75af8-5bd6-4855-8081-f976c7d9953d" /></div>
+<div align="center"><img width="553" height="239" alt="image" src="https://github.com/Skyrxin/VulnScan/blob/main/vulnscan.png" /></div>
 
 A comprehensive web application vulnerability scanner with endpoint discovery and flexible testing options.
 
