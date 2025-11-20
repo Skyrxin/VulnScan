@@ -1,4 +1,4 @@
-<div align="center")># Web Application Vulnerability Scanner</div>
+# Web Application Vulnerability Scanner
 <div align="center"><img alt="image" src="https://github.com/Skyrxin/VulnScan/blob/main/vulnscan.png" /></div>
 
 <div align="center")>A comprehensive web application vulnerability scanner with endpoint discovery and flexible testing options.</div>
